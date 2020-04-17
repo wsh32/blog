@@ -28,7 +28,7 @@ Wow, am I even an Olin student if I don't mention pRoJeCt bAsEd lEarNiNg?!?
 
 I also have a couple of projects that I have in mind for this summer. Both of them have been on my mind for a while and went stale, but I want to bring them back with the sudden influx of free time.
 
-![Online classes? No classes?](/images/2020-04-17/semester_over.jpg)
+![Online classes? No classes?]({{site.baseurl}}/images/2020-04-17/semester_over.jpg)
 
 #### Custom Mechanical Keyboard
 
